@@ -1,0 +1,323 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+
+
+a{
+    text-decoration: none;
+}
+
+
+li{
+    list-style: none;
+}
+
+.wrapper{
+    width: 1500px;
+    margin: 50px auto;
+
+    background-color: whitesmoke;
+}
+
+.container{
+    width: 1400px;
+    margin: 50px auto;
+}
+
+.navbar__logo{
+    width: 306px;
+}
+
+.navbar__prace{
+    display: inline-block;
+    vertical-align: middle;
+
+}
+
+.navbar__money{
+    display: inline-block;
+    margin-left: 50px;
+
+font-family: 'Rubik';
+font-style: normal;
+font-weight: 700;
+font-size: 16px;
+line-height: 19px;
+
+color: #285193;
+
+
+}
+
+
+.navbar__title{
+    display: inline-block;
+    vertical-align: middle;
+
+
+font-family: 'Rubik';
+font-style: normal;
+font-weight: 700;
+font-size: 28px;
+line-height: 33px;
+
+color: #295091;
+
+
+}
+
+.navbar__btn{
+    margin-left: 500px;
+
+    display: inline-block;
+    vertical-align: middle;
+
+background: linear-gradient(90deg, #1E96C8 15.07%, #37AEE2 85.96%);
+border-radius: 5px;
+
+}
+
+.smale__box{
+    margin-top:40px;
+    background-color: rgb(179, 179, 179);
+    width: 1200px;
+}
+
+.smale__p{
+    margin-left: 10px;
+    display: inline-block;
+    vertical-align: middle;
+}
+.smale__img1{
+    vertical-align: middle;
+    margin-left: 105px;
+}
+
+.nav__photo__nav{
+    margin-top: 40px;
+}
+
+.photobox4{
+    display: inline-block;
+    margin-top: 50px;
+    margin-left: 30px;
+}
+
+
+.uved__div1{
+    padding: 10px;
+    width: 1250px;
+    height: 60px;
+    background-color: rgb(223, 183, 110);
+    margin-top: 40px;
+}
+.uved__div{
+    margin-bottom: 30px;
+}
+
+.uved__img{
+
+    display: inline-block;
+    vertical-align: middle;
+    width: 30px;
+}
+
+.uved__p{
+
+    display: inline-block;
+    vertical-align: middle;
+    /* Хотите узнать новости первыми? подключите уведомления! */
+
+font-family: 'Rubik';
+font-style: normal;
+font-weight: 500;
+font-size: 20px;
+line-height: 24px;
+
+color: #000000;
+
+
+}
+
+.uved__btn{
+    margin-left: 480px;
+
+
+    /* Включит уведомления! */
+
+
+font-family: 'Rubik';
+font-style: normal;
+font-weight: 400;
+font-size: 20px;
+line-height: 24px;
+
+color: #FFFFFF;
+
+
+/* Rectangle 30 */
+
+
+/* ss */
+background: linear-gradient(90deg, #FE5C28 0%, rgba(255, 139, 54, 0.9) 88.43%);
+border-radius: 5px;
+
+
+
+}
+
+
+.news__div__in{
+    background-color: antiquewhite;
+}
+
+.news__img{
+    display: inline-block;
+    vertical-align: middle;
+}
+
+.news__text{
+    display: inline-block;
+    vertical-align: middle;
+}
+
+.news__p{
+    /* Последние новости */
+
+
+font-family: 'Rubik';
+font-style: normal;
+font-weight: 500;
+font-size: 20px;
+line-height: 24px;
+
+color: #000000;
+
+
+}
+
+.news__h3{
+    display: inline-block;
+    vertical-align: middle;
+
+
+    /* По факту прорыва Сардобинского водохранилища возбуждено уголовное дело */
+
+
+
+font-family: 'Rubik';
+font-style: normal;
+font-weight: 500;
+font-size: 17px;
+line-height: 20px;
+
+color: #202020;
+
+
+}
+
+
+.news__div__in{
+    padding: 15px;
+    width: 800px;
+}
+
+
+.news__div__on{
+    display: inline-block;
+    vertical-align: middle;
+}
+
+.usell__img{
+    vertical-align: middle;
+}
+
+.phone__img{
+    display: inline-block;
+      vertical-align: middle;
+}
+
+
+.phone__div{
+    background-color: rgb(231, 224, 215);
+    width: 1245px;
+}
+
+.phone__text{
+    display: inline-block;
+    vertical-align: middle;
+}
+
+.phone__1{
+    vertical-align: middle;
+    margin-left: 50px;
+    display: inline-block;
+}
+
+.nam24{
+    /* Rectangle 35 */
+
+background: #295093;
+width: 1250px;
+height: 180px;
+
+}
+
+.nam24__p{
+    display: inline-block;
+    margin-left: 100px;
+}
+
+.nam24__text{
+    display: inline-block;
+    background-color: #1E96C8;
+}
+
+hr{
+    color: #000000;
+}
+
+.nam24__btn{
+    background-color: #FFFFFF;
+    color: #295091;
+
+    /* Rectangle 47 */
+
+background: #FFFFFF;
+border-radius: 5px;
+margin-left: 100px;
+
+}
+
+
+li{
+    list-style: none;
+}
+
+a{
+    text-decoration: none;
+}
+
+.ppp__text{
+    margin-top: 50px;
+    padding: 20px;
+    display: flex;
+    justify-content: space-between;
+    gap: 57px;
+font-family: 'Rubik';
+font-style: normal;
+font-weight: 500;
+font-size: 19px;
+line-height: 23px;
+
+color: #515151;
+
+background-color: rgb(131, 148, 163);
+width: 1300px;
+align-items: center;
+
+
+}
+
+

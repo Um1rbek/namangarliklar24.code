@@ -1,0 +1,264 @@
+.wrapper__2{
+    width: 1000px;
+    
+    background-color: #ffffff;
+    
+}
+
+.container__2{
+    width: 1550px;
+    margin: 50px auto;
+    background-color: #ffffff;
+    padding: 100px;
+    
+    
+}
+
+
+.navbar__top{
+    display: flex;
+    align-items: center;
+    width: 1350px;
+    justify-content: space-between;
+    background-color: aliceblue;
+}
+
+.navbar__prace{
+    display: flex;
+    gap: 50px;
+
+}
+
+.navbar__right{
+    display: flex;
+    align-items: center;
+    gap: 25px;
+}
+
+.navbar__lenguages{
+    display: flex;
+    align-items: center;
+    gap: 5px;
+
+    /* РУ */
+
+
+
+
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 500;
+font-size: 16px;
+line-height: 19px;
+
+color: #535353;
+
+
+}
+
+.navbar__btnn{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    align-self: center;
+    gap: 10px;
+
+    width: 146px;
+    height: 40px;
+    border: none;
+
+
+ background: linear-gradient(90deg, #1E96C8 15.07%, #37AEE2 85.96%);
+ border-radius: 5px;
+
+
+
+font-family: 'Rubik';
+font-style: normal;
+font-weight: 500;
+font-size: 16px;
+line-height: 19px;
+
+color: #FFFFFF;
+
+
+}
+
+
+
+.navbar__money{
+    /* $ 10137.2 P 138.26 E 10988.72 */
+
+font-family: 'Rubik';
+font-style: normal;
+font-weight: 700;
+font-size: 16px;
+line-height: 19px;
+
+color: #285193;
+
+
+}
+
+.navbar__search{
+    width: 30px;height: 30px;
+    border-radius: 10px;
+    background-color: antiquewhite;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+}
+
+.ppp__text{
+    margin-top: 50px;
+    padding: 20px;
+    display: flex;
+    justify-content: space-between;
+    gap: 57px;
+font-family: 'Rubik';
+font-style: normal;
+font-weight: 500;
+font-size: 19px;
+line-height: 23px;
+
+color: #515151;
+
+background-color: rgb(131, 148, 163);
+width: 1300px;
+align-items: center;
+
+
+}
+
+.img__nrg{
+    margin-top: 30px;
+    width: 1340px;
+}
+
+
+body{
+    background-color: #515151;
+}
+
+.news__img{
+    display: inline-block;
+    vertical-align: middle;
+}
+
+
+.news__text{
+    display: inline-block;
+    vertical-align: middle;
+}
+
+
+
+.foto__logo{
+    display: inline-block;
+    vertical-align: middle;
+}
+
+
+
+
+.politika__right-card{
+    width: 350px;
+    
+}
+
+.news__day__imeges{
+    display: inline-block;
+
+}
+
+.politika__right{
+    display: inline-block;
+    margin-left: 200px;
+    vertical-align: middle;
+    margin-bottom: 450px;
+}
+
+
+/* 
+.politika__img{
+    display: inline-block;
+} */
+
+.politika__p{
+    display: inline-block;
+    vertical-align: middle;
+  
+    margin-bottom: 200px;
+}
+
+.politika__box2{
+    flex-direction: row;
+    margin-top: 20px;
+}
+
+.politika__box1{
+    display: inline-block;
+    
+}
+
+.prezident__div1{
+    display: inline-block;
+
+    vertical-align: middle;
+    margin-bottom: 410px;
+
+}
+
+.news__div__in{
+    display: inline-block;
+    background-color: aquamarine;
+    
+}
+
+.news__text{
+    display: flex;
+}
+
+.news__img{
+    width: 360px;
+    
+}
+
+
+.nam24{
+    /* Rectangle 35 */
+
+background: #295093;
+width: 1350px;
+height: 280px;
+
+}
+
+.nam24__p{
+    display: inline-block;
+    margin-left: 100px;
+}
+
+.nam24__text{
+    display: inline-block;
+    background-color: #1E96C8;
+}
+
+
+.img__text{
+    width: 800px;
+    height: 450px;
+}
+
+.aro{
+    height: 1000px;
+}
+
+.photobox4{
+    display: inline-block;
+    margin-top: 50px;
+    margin-left: 60px;
+
+}

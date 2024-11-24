@@ -1,0 +1,61 @@
+.navbar__btn{
+margin: auto;
+display: flex;
+align-items: center;
+justify-content: center;
+
+
+
+
+background: linear-gradient(90deg, #1E96C8 15.07%, #37AEE2 85.96%);
+border-radius: 5px;
+color: aliceblue;
+}
+
+
+.one__wrapper{
+
+background-color: rgb(255, 255, 255);
+border: 1px solid;
+width: 600px;
+margin: auto;
+box-shadow: 15px 20px 1px;
+
+
+}
+
+
+.one__p{
+    /* Подписывайтесь на наш канал в Telegram и будьте всегда в курсе самых последних новостей: */
+
+
+font-style: normal;
+font-weight: 500;
+font-size: 26px;
+width: 600px;
+line-height: 31px;
+text-align: center;
+
+color: #295093;
+
+
+}
+
+
+.one{
+    padding: 200px 0px;
+    background-image: url(/logo/Снимок\ экрана\ 2024-11-21\ 182020.png);
+    background-repeat: no-repeat;
+    background-size: 1200px;
+    height: 700px;
+    margin: auto;
+    
+}
+
+.two{
+margin: auto;
+width: 1200px;
+margin-top: 300px;
+
+
+}
